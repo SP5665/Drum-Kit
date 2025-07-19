@@ -1,1 +1,2 @@
-# drum-kit mini project
+# drum-kit
+mini project
